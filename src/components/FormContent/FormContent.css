@@ -1,0 +1,29 @@
+.formContent {
+  display: flex;
+  justify-content: center;
+  margin: 80px 0;
+}
+
+.TextContent {
+  padding: 0 80px 20px 80px;
+  background: #F7F7F7;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+}
+
+.TextButton {
+  width: 167px;
+  height: 80px;
+  background: #6278F7;
+  mix-blend-mode: normal;
+  border-radius: 10px;
+  border: none;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.TextButton:hover {
+  color: #95FFD4;
+  cursor: pointer;
+}

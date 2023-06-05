@@ -1,3 +1,12 @@
+Alura's class project, which aims to use ReactJS concepts, where there is a company page that shows employees and their respective teams, along with a form to fill out.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

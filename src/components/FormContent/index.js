@@ -62,6 +62,8 @@ export const FormContent = (props) => {
       <form className="TextContent" onSubmit={(event) => {
         event.preventDefault()
         props.teamForm({ name: nameTeam, color: colorTeam })
+        setNameTeam('')
+        setColorTeam('')
       }}>
         <h1>Preencha os dados para criar um novo Time.</h1>
         <Inputs

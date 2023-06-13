@@ -1,6 +1,7 @@
 .colaborator {
   width: 280px;
   position: relative;
+  margin: 5px;
 }
 
 .colaborator .head {
